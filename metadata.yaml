@@ -1,0 +1,39 @@
+_repo: The-Lonely-Stronghold_42625
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42625-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Reynolds, Baillie, Mrs.
+    aliases:
+    - Reynolds, Gertrude M. Robins
+    - Reynolds, Gertrude M.
+    - Reynolds, Mrs. Baillie
+    - Robins, Gertrude M.
+    - Robins, G. M. (Gertrude M.)
+    gutenberg_agent_id: '37776'
+    url: http://www.gutenberg.org/2009/agents/37776
+description: ''
+gutenberg_issued: '2013-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42625'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Northumberland (England) -- Fiction'
+- !lcsh 'Mothers and sons -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Twins -- Fiction'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Household employees -- Fiction'
+title: The Lonely Stronghold
+url: http://www.gutenberg.org/ebooks/42625
